@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/tmilost/warmth, frogapples.gif)
+![](https://github.com/tmilost/warmth.gif)
 
 <!--
 **tmilost/tmilost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
