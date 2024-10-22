@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 
 </div>
-
+<style>
 /*
  * fixed table layout
  */
@@ -154,3 +154,4 @@ tr td:nth-child(1) div:hover {
   background-color: #FFFFCC;
 }
 */
+</style>
