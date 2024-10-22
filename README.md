@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  - **OMOP**	https://athena.ohdsi.org/search-terms/terms
  - **HL7 FHIR**	https://terminology.hl7.org/3.1.0/CodeSystem-v2-0487.html 
 
-<div style="text-wrap: wrap; overflow-x:clip;">
+<div  style=”overflow-x:auto;”>
 -----------------------------------------------
 
 | NEW MIABIS Detailed Sample Type V1.1      | MIABIS Aggregated sample type     | MIABIS Detailed Sample Type V1.0          | SPREC_Code    | SPREC V3_SampleType                                                | SPREC V4_SampleType                                                | SCT_Code       | SCT_SampleType                                                        | OMOP concept_id | OMOP concept_name                                | HL7 FHIR Code | HL7 FHIR Display                              |
@@ -102,6 +102,21 @@ Here are some ideas to get you started:
 
 </div>
 
-.table-wrapper {
-  overflow-x: scroll;
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
 }
