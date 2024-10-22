@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  - **OMOP**	https://athena.ohdsi.org/search-terms/terms
  - **HL7 FHIR**	https://terminology.hl7.org/3.1.0/CodeSystem-v2-0487.html 
 
+<div class="table-wrapper">
 -----------------------------------------------
 
 | NEW MIABIS Detailed Sample Type V1.1      | MIABIS Aggregated sample type     | MIABIS Detailed Sample Type V1.0          | SPREC_Code    | SPREC V3_SampleType                                                | SPREC V4_SampleType                                                | SCT_Code       | SCT_SampleType                                                        | OMOP concept_id | OMOP concept_name                                | HL7 FHIR Code | HL7 FHIR Display                              |
@@ -97,3 +98,10 @@ Here are some ideas to get you started:
 | Vitreous fluid                            | Other body fluid                  | Vitreous fluid                            | no equivalent | no equivalent                                                      | no equivalent                                                      | 258438000      | Vitreous humor specimen (specimen)                                    | 4120333         | Vitreous humor sample                            | VITF          | Vitreous                                      |
 | Whole blood                               | Blood                             | Whole blood                               | BLD           | Blood (whole)                                                      | Blood (whole)                                                      | 258580003      | Whole blood specimen (specimen)                                       | 4122283         | Whole blood sample                               | WB            | Blood, whole                                  |
 | Whole blood, dried (e.g. Guthrie cards)   | Blood                             | Whole blood, dried (e.g. Guthrie cards)   | DWB           | Dried whole blood (e.g., Guthrie cards)                            | Dried whole blood (e.g., Guthrie cards)                            | 119294007      | Dried blood specimen (specimen)                                       | 4000611         | Dried blood specimen                             | no equivalent | no equivalent                                 |
+
+
+</div>
+
+.table-wrapper {
+  overflow-x: scroll;
+}
