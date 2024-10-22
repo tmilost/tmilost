@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  - **OMOP**	https://athena.ohdsi.org/search-terms/terms
  - **HL7 FHIR**	https://terminology.hl7.org/3.1.0/CodeSystem-v2-0487.html 
 
-<div class="table-wrapper">
+<div style="text-wrap: wrap;">
 -----------------------------------------------
 
 | NEW MIABIS Detailed Sample Type V1.1      | MIABIS Aggregated sample type     | MIABIS Detailed Sample Type V1.0          | SPREC_Code    | SPREC V3_SampleType                                                | SPREC V4_SampleType                                                | SCT_Code       | SCT_SampleType                                                        | OMOP concept_id | OMOP concept_name                                | HL7 FHIR Code | HL7 FHIR Display                              |
