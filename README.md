@@ -101,8 +101,56 @@ Here are some ideas to get you started:
 
 
 </div>
+
+/*
+ * fixed table layout
+ */
 table {
-	table-layout:fixed;
-	margin:auto;
-	width:100%;
+  font: larger sans-serif;
+  table-layout: fixed;
+  width: 800px;
 }
+th:nth-child(1) {
+  width: 20%;
+}
+th:nth-child(3) {
+  width: 20%;
+}
+
+/*
+ * width and overflow
+ * inline-block elements expand as much as content
+ * relative position makes z-index work
+ * explicit width and nowrap makes overflow work
+ */
+tr td:nth-child(1) div {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*
+ * higher z-index brings element to front
+ * auto width cancels the overflow
+*/
+
+tr td:nth-child(1) div:hover {
+  z-index: 1;
+  width: auto;
+  background-color: #FFFFCC;
+}
+ 
+
+
+/*
+tr td:nth-child(1) div:hover {
+  width: 100%;
+  display: table-cell;
+  overflow:visible;
+  white-space:normal;
+  background-color: #FFFFCC;
+}
+*/
