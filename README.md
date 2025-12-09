@@ -9,3 +9,8 @@
   <img alt="Shows an irabb-paper in light mode and a warmth in dark mode." src="https://github.com/tmilost/tmilost/blob/main/warmth.gif">
 </picture>
 
+***
+
+Top github discussions:
+https://github.com/orgs/community/discussions/175949#discussion-8992406
+https://github.com/orgs/community/discussions/178334#discussion-9085177
