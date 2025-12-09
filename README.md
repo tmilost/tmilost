@@ -12,4 +12,4 @@
 > [!IMPORTANT]
 > 🏆 Top GitHub discussions: <br />
 > Demystifying Git History: https://github.com/orgs/community/discussions/175949#discussion-8992406 <br />
-> Biome vs ESLint - Which one do you prefer and why?: https://github.com/orgs/community/discussions/178334#discussion-9085177
+> Biome vs ESLint: https://github.com/orgs/community/discussions/178334#discussion-9085177
