@@ -10,6 +10,6 @@
 </picture>
 
 > [!IMPORTANT]
-> Top github discussions: <br />
+> 🔥 Top GitHub discussions: <br />
 > https://github.com/orgs/community/discussions/175949#discussion-8992406 <br />
 > https://github.com/orgs/community/discussions/178334#discussion-9085177
